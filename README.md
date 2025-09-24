@@ -1,4 +1,5 @@
 # Mario Mimic
+<img width="1536" height="1024" alt="mario1" src="https://github.com/user-attachments/assets/b9947265-6682-4e4a-894c-58c268e709fe" />
 
 Mario Mimic is a TypeScript-based application designed to mimic the gameplay style and mechanics of classic Mario games. This project demonstrates interactive game logic, asset management, and modern deployment workflows using Docker and Google Cloud.
 
@@ -104,6 +105,5 @@ Mario Mimic is architected as a browser-based game using TypeScript, HTML5 Canva
 - `Dockerfile` - Container build instructions
 - `package.json` - Project metadata and scripts
 
-<img width="1536" height="1024" alt="mario1" src="https://github.com/user-attachments/assets/b9947265-6682-4e4a-894c-58c268e709fe" />
 <img width="1024" height="1536" alt="mario2" src="https://github.com/user-attachments/assets/272e76f6-6a01-43a9-8a32-eda5e0272ffe" />
 
